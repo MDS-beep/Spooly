@@ -9,7 +9,7 @@
 🔍 Simple Web UI – Clean, responsive interface accessible from any browser.   
 🐳 Docker-Ready – Easily deploy with Docker for a hassle-free setup.   
 
-To use: 
+To use:    
 Set it up in docker and go to port 4000
 
 💬 Feedback & Contributions Open to improvements! Feel free to report issues or suggest features via GitHub.
