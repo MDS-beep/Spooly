@@ -17,5 +17,7 @@ Set it up in docker and go to port 4000
 💙 Spooly is a passion project built and shared for free.
 If you find it useful, consider supporting me to keep development going! buymeacoffee: https://coff.ee/mathiasd⁠
 
+Official discord: https://discord.gg/FU8BGkJ838
+
 ![image](https://github.com/user-attachments/assets/58ddaf0e-73c3-4a2b-aaaf-b1a7969bca4a)
 
